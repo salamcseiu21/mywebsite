@@ -1,0 +1,50 @@
+﻿.logInPage {
+    width: 900px;
+    height: 500px;
+    margin: 20px auto;
+
+}
+header {
+    width: 900px;
+   
+    background-color: pink;
+}
+nav ul li {
+    display: inline;
+    float: left;
+}
+
+nav ul li a {
+    margin-top: 3px;
+    display: inline-block;
+    text-decoration: none;
+    float: left;
+    width: 180px;
+    text-transform: uppercase;
+    background-color: mediumturquoise;
+    padding: 5px 0;
+    text-align: center;
+}
+nav ul li a:hover {
+    background-color: navajowhite;
+    
+}
+.container {
+    margin: 20px auto;
+    width: 900px;
+}
+.sliderImgae {
+    
+}
+.mainContent {
+    width: 900px;
+
+}
+footer {
+    background-color: lightgreen;
+    clear: both;
+     padding: 5px 0;
+}
+footer p {
+    text-align: center;
+}

@@ -1,0 +1,6 @@
+F:\C#\BASIS\2016\08.01.2016\SnNetworkWebSite\SnNetworkWebSite\bin\SnNetworkWebSite.dll.config
+F:\C#\BASIS\2016\08.01.2016\SnNetworkWebSite\SnNetworkWebSite\bin\SnNetworkWebSite.dll
+F:\C#\BASIS\2016\08.01.2016\SnNetworkWebSite\SnNetworkWebSite\bin\SnNetworkWebSite.pdb
+F:\C#\BASIS\2016\08.01.2016\SnNetworkWebSite\SnNetworkWebSite\obj\Debug\SnNetworkWebSite.dll
+F:\C#\BASIS\2016\08.01.2016\SnNetworkWebSite\SnNetworkWebSite\obj\Debug\SnNetworkWebSite.pdb
+F:\C#\BASIS\2016\08.01.2016\SnNetworkWebSite\SnNetworkWebSite\obj\Debug\SnNetworkWebSite.csprojResolveAssemblyReference.cache
